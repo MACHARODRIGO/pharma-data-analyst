@@ -57,7 +57,7 @@ directly for how any Tableau dashboard delivered to her must be designed
 ## Meeting notes
 
 You've just been given access to the company network and a Pastela email
-account (firstname.lastname@pastelapharma.com). Opening your inbox, you find
+account (rodrigo.machado@pastelapharma.com). Opening your inbox, you find
 the following email from your supervisor.
 
 > **From:** Julian Cross, Data Analytics Manager
