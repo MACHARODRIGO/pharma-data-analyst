@@ -1,0 +1,41 @@
+medication_id,brand_name,active_ingredient,manufacturer,pharmaceutical_form,concentration_mg,who_atc_category,requires_prescription
+1,Lipiverol 40mg,Atorvastatin,Pfizer,Tablet,40.0,C10AA01 - HMG-CoA reductase inhibitor (statin),1
+2,Corvastan 20mg,Rosuvastatin,AstraZeneca,Tablet,20.0,C10AA07 - HMG-CoA reductase inhibitor (statin),1
+3,Glucophage 850mg,Metformin,Merck,Tablet,850.0,A10BA02 - Biguanide antidiabetic,1
+4,Ibuprovex 400mg,Ibuprofen,Bayer,Tablet,400.0,M01AE01 - Propionic acid NSAID,0
+5,Naproxil 500mg,Naproxen,Roche,Tablet,500.0,M01AE02 - Propionic acid NSAID,0
+6,Amoxiclear 500mg,Amoxicillin,GSK,Capsule,500.0,J01CA04 - Broad-spectrum penicillin,1
+7,Azivex 250mg,Azithromycin,Pfizer,Tablet,250.0,J01FA10 - Macrolide antibiotic,1
+8,Enalapan 10mg,Enalapril,Novartis,Tablet,10.0,C09AA02 - ACE inhibitor,1
+9,Lisinal 10mg,Lisinopril,Merck,Tablet,10.0,C09AA03 - ACE inhibitor,1
+10,Omeprazine 20mg,Omeprazole,AstraZeneca,Capsule,20.0,A02BC01 - Proton pump inhibitor,0
+11,Pantorix 40mg,Pantoprazole,Takeda,Tablet,40.0,A02BC02 - Proton pump inhibitor,0
+12,Methoxan 2.5mg,Methotrexate,Teva,Tablet,2.5,L01BA01 - Antimetabolite / DMARD,1
+13,Prozamine 20mg,Fluoxetine,Eli Lilly,Capsule,20.0,N06AB03 - SSRI antidepressant,1
+14,Sertraline Normon 50mg,Sertraline,Normon,Tablet,50.0,N06AB06 - SSRI antidepressant,1
+15,Warfacil 5mg,Warfarin,Bristol-Myers Squibb,Tablet,5.0,B01AA03 - Vitamin K antagonist anticoagulant,1
+16,Apixarel 5mg,Apixaban,Pfizer,Tablet,5.0,B01AF02 - Factor Xa inhibitor anticoagulant,1
+17,Doxorubin 50mg,Doxorubicin,Roche,Injection,50.0,L01DB01 - Anthracycline antineoplastic,1
+18,Cisplatek 50mg,Cisplatin,Teva,Injection,50.0,L01XA01 - Platinum antineoplastic,1
+19,Oxycontal 10mg,Oxycodone,Purdue,Tablet,10.0,N02AA05 - Opioid analgesic,1
+20,Morfilex 10mg,Morphine,Mallinckrodt,Injection,10.0,N02AA01 - Opioid analgesic,1
+21,Cyclosporal 100mg,Cyclosporine,Novartis,Capsule,100.0,L04AD01 - Calcineurin-inhibitor immunosuppressant,1
+22,Tacrolim 5mg,Tacrolimus,Astellas,Capsule,5.0,L04AD02 - Calcineurin-inhibitor immunosuppressant,1
+23,Prednivex 20mg,Prednisone,Pfizer,Tablet,20.0,H02AB07 - Systemic corticosteroid,1
+24,Dexanorm 4mg,Dexamethasone,Merck,Tablet,4.0,H02AB02 - Systemic corticosteroid,1
+25,Diazepron 5mg,Diazepam,Roche,Tablet,5.0,N05BA01 - Benzodiazepine anxiolytic,1
+26,Loraxil 1mg,Lorazepam,Wyeth,Tablet,1.0,N05BA06 - Benzodiazepine anxiolytic,1
+27,Risperal 2mg,Risperidone,Janssen,Tablet,2.0,N05AX08 - Atypical antipsychotic,1
+28,Olanzapex 10mg,Olanzapine,Eli Lilly,Tablet,10.0,N05AH03 - Atypical antipsychotic,1
+29,Furosemal 40mg,Furosemide,Sanofi,Tablet,40.0,C03CA01 - Loop diuretic,1
+30,Hydrochlon 25mg,Hydrochlorothiazide,Merck,Tablet,25.0,C03AA03 - Thiazide diuretic,1
+31,Salbutrix 100mcg,Salbutamol,GSK,Inhaler,0.1,R03AC02 - Short-acting beta-2 agonist bronchodilator,0
+32,Fluticort 250mcg,Fluticasone,GSK,Inhaler,0.25,R03BA05 - Inhaled corticosteroid,0
+33,Metoprolan 50mg,Metoprolol,AstraZeneca,Tablet,50.0,C07AB02 - Beta-1 selective blocker,1
+34,Atenolix 50mg,Atenolol,AstraZeneca,Tablet,50.0,C07AB03 - Beta-1 selective blocker,1
+35,Amlodipex 5mg,Amlodipine,Pfizer,Tablet,5.0,C08CA01 - Dihydropyridine calcium channel blocker,1
+36,Levotirox 100mcg,Levothyroxine,Abbott,Tablet,0.1,H03AA01 - Thyroid hormone replacement,1
+37,Acyclovex 400mg,Acyclovir,GSK,Tablet,400.0,J05AB01 - Antiviral (herpesvirus),1
+38,Ceftrixon 1g,Ceftriaxone,Roche,Injection,1000.0,J01DD04 - Third-generation cephalosporin,1
+39,Vancomex 1g,Vancomycin,Eli Lilly,Injection,1000.0,J01XA01 - Glycopeptide antibiotic,1
+40,Insugen 100U/mL,Insulin Glargine,Sanofi,Injection,100.0,A10AE04 - Long-acting insulin analogue,1

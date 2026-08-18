@@ -1,0 +1,201 @@
+doctor_id,first_name,last_name,specialty,license_number,hospital
+1,Danielle,Johnson,Oncology,MD-10001,Pinecrest Community Hospital
+2,Joshua,Walker,Rheumatology,MD-10002,Lakeview Regional Hospital
+3,Jill,Rhodes,Internal Medicine,MD-10003,Ashford Medical Center
+4,Patricia,Miller,Oncology,MD-10004,Harborview Clinical Center
+5,Robert,Johnson,Neurology,MD-10005,Meridian General Hospital
+6,Jeffery,Wagner,Psychiatry,MD-10006,Summit Health System
+7,Anthony,Gonzalez,Pulmonology,MD-10007,Pinecrest Community Hospital
+8,Debra,Gardner,Pulmonology,MD-10008,Pinecrest Community Hospital
+9,Jeffrey,Lawrence,Psychiatry,MD-10009,St. Alden Medical Center
+10,Lisa,Smith,Family Medicine,MD-10010,Lakeview Regional Hospital
+11,Linda,Wolfe,Psychiatry,MD-10011,Riverside Health Institute
+12,Matthew,Moore,Neurology,MD-10012,Summit Health System
+13,Susan,Rogers,Nephrology,MD-10013,Harborview Clinical Center
+14,Christopher,Davis,Endocrinology,MD-10014,Ashford Medical Center
+15,Melanie,Munoz,Psychiatry,MD-10015,Lakeview Regional Hospital
+16,Lindsay,Blair,Internal Medicine,MD-10016,Northgate University Hospital
+17,Amanda,Dudley,Oncology,MD-10017,Crestwood Memorial Hospital
+18,Nicholas,Arnold,Family Medicine,MD-10018,Meridian General Hospital
+19,Maria,Montgomery,Family Medicine,MD-10019,Ashford Medical Center
+20,Michelle,Ray,Infectious Disease,MD-10020,Harborview Clinical Center
+21,Janet,Williams,Oncology,MD-10021,Pinecrest Community Hospital
+22,Jeremy,Roberts,Pulmonology,MD-10022,Riverside Health Institute
+23,Christopher,Hall,Cardiology,MD-10023,Summit Health System
+24,Craig,Ramirez,Internal Medicine,MD-10024,Ashford Medical Center
+25,Cynthia,Diaz,Pulmonology,MD-10025,Pinecrest Community Hospital
+26,Mitchell,Clark,Nephrology,MD-10026,St. Alden Medical Center
+27,Joseph,Zuniga,Endocrinology,MD-10027,Lakeview Regional Hospital
+28,Deborah,Lynch,Internal Medicine,MD-10028,Meridian General Hospital
+29,George,Daniel,Psychiatry,MD-10029,St. Alden Medical Center
+30,Frank,Gray,Pulmonology,MD-10030,Harborview Clinical Center
+31,Veronica,Bowman,Geriatrics,MD-10031,Pinecrest Community Hospital
+32,Angela,Cohen,Endocrinology,MD-10032,Summit Health System
+33,Megan,Parsons,Endocrinology,MD-10033,Riverside Health Institute
+34,Jeremy,Johnson,Family Medicine,MD-10034,Riverside Health Institute
+35,Leslie,Adams,Cardiology,MD-10035,Lakeview Regional Hospital
+36,Jason,Hahn,Nephrology,MD-10036,St. Alden Medical Center
+37,Nancy,Edwards,Internal Medicine,MD-10037,St. Alden Medical Center
+38,Diana,Foster,Pulmonology,MD-10038,Lakeview Regional Hospital
+39,Robin,Ellis,Infectious Disease,MD-10039,Northgate University Hospital
+40,Joseph,Wright,Psychiatry,MD-10040,Harborview Clinical Center
+41,Anna,Baker,Geriatrics,MD-10041,Lakeview Regional Hospital
+42,Brenda,Hurst,Oncology,MD-10042,Ashford Medical Center
+43,Reginald,Robinson,Rheumatology,MD-10043,Pinecrest Community Hospital
+44,Whitney,Hicks,Oncology,MD-10044,Riverside Health Institute
+45,Christopher,Williams,Nephrology,MD-10045,Ashford Medical Center
+46,Daniel,Burton,Internal Medicine,MD-10046,Ashford Medical Center
+47,Laura,Henderson,Family Medicine,MD-10047,Riverside Health Institute
+48,Bryan,James,Family Medicine,MD-10048,Northgate University Hospital
+49,Wendy,Rice,Neurology,MD-10049,Harborview Clinical Center
+50,Tasha,Valencia,Rheumatology,MD-10050,St. Alden Medical Center
+51,Alexander,Le,Nephrology,MD-10051,St. Alden Medical Center
+52,Erin,Herrera,Nephrology,MD-10052,Meridian General Hospital
+53,Joseph,Davidson,Nephrology,MD-10053,Pinecrest Community Hospital
+54,Daniel,Graham,Nephrology,MD-10054,Harborview Clinical Center
+55,Shawn,Mckay,Internal Medicine,MD-10055,Pinecrest Community Hospital
+56,Nancy,Baker,Infectious Disease,MD-10056,Pinecrest Community Hospital
+57,Vincent,White,Psychiatry,MD-10057,Lakeview Regional Hospital
+58,Rita,Harrell,Psychiatry,MD-10058,Crestwood Memorial Hospital
+59,Kenneth,Fowler,Cardiology,MD-10059,St. Alden Medical Center
+60,Chelsea,Hernandez,Neurology,MD-10060,St. Alden Medical Center
+61,Kathryn,Ryan,Internal Medicine,MD-10061,Harborview Clinical Center
+62,Kimberly,Moreno,Rheumatology,MD-10062,Lakeview Regional Hospital
+63,Aaron,Nguyen,Family Medicine,MD-10063,Crestwood Memorial Hospital
+64,Andrew,Hickman,Cardiology,MD-10064,Pinecrest Community Hospital
+65,Natasha,Decker,Psychiatry,MD-10065,Harborview Clinical Center
+66,Kyle,Brown,Psychiatry,MD-10066,Crestwood Memorial Hospital
+67,Natalie,Arroyo,Oncology,MD-10067,Crestwood Memorial Hospital
+68,Christopher,Tucker,Nephrology,MD-10068,Riverside Health Institute
+69,Chad,Hodges,Rheumatology,MD-10069,Meridian General Hospital
+70,Katie,Anderson,Endocrinology,MD-10070,Lakeview Regional Hospital
+71,Thomas,Pierce,Geriatrics,MD-10071,Northgate University Hospital
+72,Joseph,Brennan,Infectious Disease,MD-10072,Lakeview Regional Hospital
+73,Rodney,Lewis,Geriatrics,MD-10073,Ashford Medical Center
+74,Amber,Blair,Cardiology,MD-10074,Northgate University Hospital
+75,James,Collins,Nephrology,MD-10075,Meridian General Hospital
+76,Wanda,Santos,Family Medicine,MD-10076,Northgate University Hospital
+77,Samuel,Holmes,Geriatrics,MD-10077,Northgate University Hospital
+78,David,Walker,Internal Medicine,MD-10078,Harborview Clinical Center
+79,Matthew,Chapman,Oncology,MD-10079,Crestwood Memorial Hospital
+80,Jerry,Robinson,Psychiatry,MD-10080,Pinecrest Community Hospital
+81,Chad,Welch,Geriatrics,MD-10081,Harborview Clinical Center
+82,Jeremy,Whitehead,Endocrinology,MD-10082,Lakeview Regional Hospital
+83,Michele,Jones,Internal Medicine,MD-10083,Ashford Medical Center
+84,John,Caldwell,Infectious Disease,MD-10084,St. Alden Medical Center
+85,Jason,Anderson,Endocrinology,MD-10085,Meridian General Hospital
+86,Selena,Duncan,Oncology,MD-10086,Meridian General Hospital
+87,Thomas,Mueller,Nephrology,MD-10087,Pinecrest Community Hospital
+88,Lindsey,Lee,Pulmonology,MD-10088,Lakeview Regional Hospital
+89,Collin,Jordan,Pulmonology,MD-10089,St. Alden Medical Center
+90,Rodney,Owens,Family Medicine,MD-10090,Crestwood Memorial Hospital
+91,Jessica,Nunez,Geriatrics,MD-10091,St. Alden Medical Center
+92,Tracey,Garcia,Internal Medicine,MD-10092,Harborview Clinical Center
+93,Richard,Morgan,Internal Medicine,MD-10093,Lakeview Regional Hospital
+94,Michelle,Wright,Oncology,MD-10094,Riverside Health Institute
+95,James,West,Neurology,MD-10095,Riverside Health Institute
+96,Robert,Ramirez,Pulmonology,MD-10096,Harborview Clinical Center
+97,John,Leblanc,Rheumatology,MD-10097,Riverside Health Institute
+98,Scott,Callahan,Geriatrics,MD-10098,Meridian General Hospital
+99,Andrea,Williams,Endocrinology,MD-10099,St. Alden Medical Center
+100,Yvette,Huff,Endocrinology,MD-10100,Summit Health System
+101,Tanya,House,Endocrinology,MD-10101,Summit Health System
+102,Melinda,Martin,Internal Medicine,MD-10102,Harborview Clinical Center
+103,Todd,Lewis,Internal Medicine,MD-10103,Northgate University Hospital
+104,Richard,Brown,Nephrology,MD-10104,Summit Health System
+105,Nicholas,Galloway,Infectious Disease,MD-10105,Pinecrest Community Hospital
+106,Joseph,Bowers,Infectious Disease,MD-10106,Pinecrest Community Hospital
+107,Spencer,Henderson,Nephrology,MD-10107,Lakeview Regional Hospital
+108,Susan,Cowan,Pulmonology,MD-10108,Northgate University Hospital
+109,Angela,Higgins,Cardiology,MD-10109,Meridian General Hospital
+110,Eric,Phillips,Internal Medicine,MD-10110,Summit Health System
+111,Tanya,Riley,Oncology,MD-10111,Lakeview Regional Hospital
+112,Amy,Adkins,Pulmonology,MD-10112,Northgate University Hospital
+113,Brian,Silva,Pulmonology,MD-10113,Riverside Health Institute
+114,Wesley,Farrell,Nephrology,MD-10114,Crestwood Memorial Hospital
+115,Eric,Yu,Psychiatry,MD-10115,St. Alden Medical Center
+116,Christopher,Lopez,Internal Medicine,MD-10116,Ashford Medical Center
+117,Brooke,Leonard,Cardiology,MD-10117,Pinecrest Community Hospital
+118,Joe,Wilson,Internal Medicine,MD-10118,Pinecrest Community Hospital
+119,Pamela,Sanchez,Rheumatology,MD-10119,Lakeview Regional Hospital
+120,Brooke,Harvey,Infectious Disease,MD-10120,Harborview Clinical Center
+121,Robert,Silva,Oncology,MD-10121,Crestwood Memorial Hospital
+122,Alexandra,Donovan,Oncology,MD-10122,Harborview Clinical Center
+123,James,Moran,Rheumatology,MD-10123,Meridian General Hospital
+124,John,Foster,Nephrology,MD-10124,Lakeview Regional Hospital
+125,Emily,Evans,Nephrology,MD-10125,Meridian General Hospital
+126,Leslie,Walton,Neurology,MD-10126,Lakeview Regional Hospital
+127,Charles,Ellis,Neurology,MD-10127,Riverside Health Institute
+128,Yolanda,Ferrell,Rheumatology,MD-10128,St. Alden Medical Center
+129,Charles,Lewis,Pulmonology,MD-10129,St. Alden Medical Center
+130,Joseph,Mahoney,Neurology,MD-10130,Crestwood Memorial Hospital
+131,Nicole,Suarez,Nephrology,MD-10131,St. Alden Medical Center
+132,Mike,Moore,Infectious Disease,MD-10132,Summit Health System
+133,Martha,Warner,Geriatrics,MD-10133,Crestwood Memorial Hospital
+134,Cheryl,Archer,Internal Medicine,MD-10134,Riverside Health Institute
+135,Destiny,Smith,Rheumatology,MD-10135,Crestwood Memorial Hospital
+136,Lisa,Evans,Infectious Disease,MD-10136,Meridian General Hospital
+137,Elizabeth,Mcmillan,Oncology,MD-10137,Summit Health System
+138,Dennis,Wilson,Internal Medicine,MD-10138,Lakeview Regional Hospital
+139,Daniel,Tran,Internal Medicine,MD-10139,Pinecrest Community Hospital
+140,Joseph,Jacobs,Cardiology,MD-10140,Meridian General Hospital
+141,Jennifer,Harris,Infectious Disease,MD-10141,Lakeview Regional Hospital
+142,Cynthia,Baker,Pulmonology,MD-10142,Lakeview Regional Hospital
+143,Tracy,Whitehead,Internal Medicine,MD-10143,Summit Health System
+144,Meghan,Davis,Oncology,MD-10144,Crestwood Memorial Hospital
+145,Rodney,Hill,Psychiatry,MD-10145,Lakeview Regional Hospital
+146,Adam,Wise,Nephrology,MD-10146,Northgate University Hospital
+147,Dana,Green,Geriatrics,MD-10147,Riverside Health Institute
+148,Joyce,Arnold,Psychiatry,MD-10148,Crestwood Memorial Hospital
+149,Ronald,Smith,Family Medicine,MD-10149,Lakeview Regional Hospital
+150,Charles,Ware,Infectious Disease,MD-10150,Meridian General Hospital
+151,Rebecca,Gardner,Endocrinology,MD-10151,Ashford Medical Center
+152,Mary,Aguilar,Cardiology,MD-10152,Ashford Medical Center
+153,Earl,Anderson,Psychiatry,MD-10153,St. Alden Medical Center
+154,Kyle,Nolan,Infectious Disease,MD-10154,Crestwood Memorial Hospital
+155,Laura,Valencia,Infectious Disease,MD-10155,St. Alden Medical Center
+156,Rachel,Clark,Rheumatology,MD-10156,Harborview Clinical Center
+157,John,Garcia,Oncology,MD-10157,Northgate University Hospital
+158,Kimberly,Henson,Neurology,MD-10158,Harborview Clinical Center
+159,Richard,Oliver,Pulmonology,MD-10159,Pinecrest Community Hospital
+160,Eric,Spears,Geriatrics,MD-10160,Pinecrest Community Hospital
+161,Michelle,Cherry,Infectious Disease,MD-10161,St. Alden Medical Center
+162,Lisa,Keith,Rheumatology,MD-10162,Summit Health System
+163,Angel,Doyle,Geriatrics,MD-10163,Northgate University Hospital
+164,Martin,Galvan,Neurology,MD-10164,Meridian General Hospital
+165,Leah,Shields,Oncology,MD-10165,Crestwood Memorial Hospital
+166,Lisa,Adams,Psychiatry,MD-10166,Riverside Health Institute
+167,Kristin,Rodriguez,Infectious Disease,MD-10167,Ashford Medical Center
+168,Monica,Garrison,Internal Medicine,MD-10168,Ashford Medical Center
+169,Jeffrey,Velasquez,Geriatrics,MD-10169,Riverside Health Institute
+170,Steven,Torres,Neurology,MD-10170,Summit Health System
+171,Laura,Perez,Rheumatology,MD-10171,Northgate University Hospital
+172,Andrew,Lee,Rheumatology,MD-10172,Crestwood Memorial Hospital
+173,Mark,Lin,Family Medicine,MD-10173,Northgate University Hospital
+174,Tammy,Ramirez,Geriatrics,MD-10174,Summit Health System
+175,Darlene,Ross,Neurology,MD-10175,St. Alden Medical Center
+176,Tina,Herrera,Psychiatry,MD-10176,Meridian General Hospital
+177,Sheila,Wilson,Infectious Disease,MD-10177,Lakeview Regional Hospital
+178,Tara,White,Geriatrics,MD-10178,Summit Health System
+179,Sydney,Baker,Oncology,MD-10179,Ashford Medical Center
+180,Daniel,Hamilton,Oncology,MD-10180,Pinecrest Community Hospital
+181,Jessica,Edwards,Family Medicine,MD-10181,Ashford Medical Center
+182,Catherine,Dixon,Neurology,MD-10182,Ashford Medical Center
+183,Paul,Ray,Oncology,MD-10183,Crestwood Memorial Hospital
+184,Jonathan,Fletcher,Internal Medicine,MD-10184,Riverside Health Institute
+185,Aaron,Frost,Cardiology,MD-10185,Pinecrest Community Hospital
+186,Amanda,Ball,Endocrinology,MD-10186,Harborview Clinical Center
+187,Judy,Lambert,Endocrinology,MD-10187,Riverside Health Institute
+188,Michael,Jones,Family Medicine,MD-10188,Meridian General Hospital
+189,Elizabeth,Rivera,Pulmonology,MD-10189,Pinecrest Community Hospital
+190,Lee,Charles,Endocrinology,MD-10190,Northgate University Hospital
+191,Jennifer,Evans,Cardiology,MD-10191,Summit Health System
+192,Kyle,Ortiz,Geriatrics,MD-10192,Northgate University Hospital
+193,Richard,Phillips,Cardiology,MD-10193,St. Alden Medical Center
+194,David,Fisher,Cardiology,MD-10194,Ashford Medical Center
+195,Shelby,Byrd,Family Medicine,MD-10195,St. Alden Medical Center
+196,Raven,Gilbert,Pulmonology,MD-10196,St. Alden Medical Center
+197,Kevin,Kelley,Endocrinology,MD-10197,Crestwood Memorial Hospital
+198,Aaron,Mitchell,Pulmonology,MD-10198,Ashford Medical Center
+199,Russell,Carpenter,Cardiology,MD-10199,St. Alden Medical Center
+200,Diana,Marshall,Infectious Disease,MD-10200,Riverside Health Institute
