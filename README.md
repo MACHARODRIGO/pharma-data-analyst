@@ -1,20 +1,20 @@
-# Pharmacovigilance Risk Analytics — Vitalis Pharmaceuticals
+# Pharmacovigilance Risk Analytics — Pastela Pharmaceuticals
 
 End-to-end data analyst portfolio project (Python, SQL, Tableau) simulating a pharmacovigilance risk-analytics workflow for a fictional pharma company. Covers SQL extraction, data cleaning, statistical inference, and ML (logistic regression & decision trees) to predict adverse drug event risk, with results exported for Tableau.
-
-*Portfolio exercise. Vitalis Pharmaceuticals, all people, emails, and events
+****
+*Portfolio exercise. Pastela Pharmaceuticals, all people, emails, and events
 described below are fictitious and were created for pedagogical purposes.*
 
 ---
 
-## Background on the Vitalis Pharmaceuticals scenario
+## Background on the Pastela Pharmaceuticals scenario
 
-Congratulations on your new role as a **Data Analyst** on Vitalis
+Congratulations on your new role as a **Data Analyst** on Pastela
 Pharmaceuticals' internal **Data & Analytics** team!
 
-Vitalis Pharmaceuticals is a mid-size pharmaceutical company that manufactures
+Pastela Pharmaceuticals is a mid-size pharmaceutical company that manufactures
 and distributes prescription medications across cardiology, oncology,
-endocrinology, and infectious disease. Like every pharma manufacturer, Vitalis
+endocrinology, and infectious disease. Like every pharma manufacturer, Pastela
 is legally required to monitor the safety of its products after they reach
 patients — a discipline called **pharmacovigilance**. The internal
 Pharmacovigilance (Drug Safety) department is responsible for collecting,
@@ -23,7 +23,7 @@ investigating, and reporting adverse drug reactions.
 The Data & Analytics team has been asked to help the Pharmacovigilance
 department move from *reactive* case review (waiting for an adverse event to
 be reported, then investigating it) to *proactive* risk monitoring: using the
-treatment and patient data Vitalis already has to flag which currently active
+treatment and patient data Pastela already has to flag which currently active
 treatments are statistically most likely to produce an adverse event, so
 safety staff can prioritize outreach and monitoring before something happens.
 
@@ -33,16 +33,16 @@ event.
 
 ---
 
-## Team members at Vitalis Pharmaceuticals
+## Team members at Pastela Pharmaceuticals
 
 | Name | Role | Email | Team |
 |---|---|---|---|
-| Marta Fields | Director of Data & Analytics | marta.fields@vitalispharma.com | Data & Analytics |
-| Julian Cross | Data Analytics Manager (your supervisor) | julian.cross@vitalispharma.com | Data & Analytics |
-| Priya Anand | Senior Data Analyst (your colleague) | priya.anand@vitalispharma.com | Data & Analytics |
-| Diego Ferreira | Senior Project Manager | diego.ferreira@vitalispharma.com | Data & Analytics |
-| Helena Brooks | Head of Pharmacovigilance | helena.brooks@vitalispharma.com | Drug Safety |
-| Marcus Lee | Regulatory Affairs Manager | marcus.lee@vitalispharma.com | Regulatory Affairs |
+| Marta Fields | Director of Data & Analytics | marta.fields@pastelapharma.com | Data & Analytics |
+| Julian Cross | Data Analytics Manager (your supervisor) | julian.cross@pastelapharma.com | Data & Analytics |
+| Priya Anand | Senior Data Analyst (your colleague) | priya.anand@pastelapharma.com | Data & Analytics |
+| Diego Ferreira | Senior Project Manager | diego.ferreira@pastelapharma.com | Data & Analytics |
+| Helena Brooks | Head of Pharmacovigilance | helena.brooks@pastelapharma.com | Drug Safety |
+| Marcus Lee | Regulatory Affairs Manager | marcus.lee@pastelapharma.com | Regulatory Affairs |
 
 Your teammates on the Data & Analytics team have deep technical backgrounds —
 keep messages to them concise and code-forward. Helena and Marcus are program
@@ -56,8 +56,8 @@ directly for how any Tableau dashboard delivered to her must be designed
 
 ## Meeting notes
 
-You've just been given access to the company network and a Vitalis email
-account (firstname.lastname@vitalispharma.com). Opening your inbox, you find
+You've just been given access to the company network and a Pastela email
+account (firstname.lastname@pastelapharma.com). Opening your inbox, you find
 the following email from your supervisor.
 
 > **From:** Julian Cross, Data Analytics Manager
@@ -106,7 +106,7 @@ the following email from your supervisor.
 >
 > Welcome aboard,
 > Julian Cross
-> Data Analytics Manager, Vitalis Pharmaceuticals
+> Data Analytics Manager, Pastela Pharmaceuticals
 
 A second email follows from Priya, with the concrete ask:
 
@@ -135,7 +135,7 @@ A second email follows from Priya, with the concrete ask:
 >
 > Thanks,
 > Priya Anand
-> Senior Data Analyst, Vitalis Pharmaceuticals
+> Senior Data Analyst, Pastela Pharmaceuticals
 
 ---
 
