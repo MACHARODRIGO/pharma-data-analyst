@@ -1,7 +1,6 @@
 # Pharmacovigilance Risk Analytics — Pastela Pharmaceuticals
 
 End-to-end data analyst portfolio project (Python, SQL, Tableau) simulating a pharmacovigilance risk-analytics workflow for a fictional pharma company. Covers SQL extraction, data cleaning, statistical inference, and ML (logistic regression & decision trees) to predict adverse drug event risk, with results exported for Tableau.
-****
 *Portfolio exercise. Pastela Pharmaceuticals, all people, emails, and events
 described below are fictitious and were created for pedagogical purposes.*
 

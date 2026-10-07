@@ -45,8 +45,7 @@ pharma-data-analyst/
 │   ├── tableau_kri_by_hospital.csv        # observed/expected events by site with limits
 │   └── tableau_qtl_quarterly.csv          # programme QTL by quarter
 ├── docs/
-│   ├── pharma_analytics_project_brief.md  # stakeholder brief (fictitious scenario)
-│   └── tableau_dashboard_guide.md         # step-by-step Tableau build guide (Spanish)
+│   └── pharma_analytics_project_brief.md  # stakeholder brief (fictitious scenario)
 └── images/                                # dashboard and chart screenshots
 ```
 
@@ -58,7 +57,7 @@ python scripts/generate_pharma_data.py   # regenerates raw/ (seed 42)
 python scripts/run_exemplar.py           # runs the notebook and rewrites processed/
 ```
 
-Or open the notebook in Jupyter from the repository root, so the relative paths `raw/` and `processed/` resolve. Then connect Tableau to `processed/tableau_pharma_risk_data.hyper` and the three site/QTL CSV files, following `docs/tableau_dashboard_guide.md`.
+Or open the notebook in Jupyter from the repository root, so the relative paths `raw/` and `processed/` resolve. Then connect Tableau to `processed/tableau_pharma_risk_data.hyper` and the three site/QTL CSV files.
 
 ## Method in brief
 
