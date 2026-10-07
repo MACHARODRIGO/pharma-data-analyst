@@ -4,7 +4,7 @@
 
 An end-to-end pharmacovigilance analytics project for the fictitious company **Pastela Pharmaceuticals**: a calibrated adverse-event risk score, site-level Key Risk Indicators (KRIs) with secondary and action limits, a programme Quality Tolerance Limit (QTL), and an accessible Tableau story. It follows the **PACE** framework (Plan, Analyze, Construct, Execute) and the risk-based quality management logic of ICH E6(R3) and E8(R1).
 
-- **Interactive Tableau story:** https://public.tableau.com/shared/Y8T9TW82X
+- **Interactive Tableau story:** https://public.tableau.com/views/PastelaPharmaceuticals-PharmacovigilanceRiskMonitor/VitalisPharmaceuticalsPharmacovigilanceRiskMonitor
 - **Blog post (EN · ES · FR · PT):** https://rodrigomachadobirollo.social-networking.me/en/blog/farmacovigilancia/
 - **Project brief** (scenario, team, stakeholder interview, task list): [docs/pharma_analytics_project_brief.md](docs/pharma_analytics_project_brief.md)
 
