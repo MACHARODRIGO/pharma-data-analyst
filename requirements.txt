@@ -1,0 +1,13 @@
+pandas>=2.2
+numpy>=1.26
+faker>=25
+scipy>=1.13
+statsmodels>=0.14
+scikit-learn>=1.5
+matplotlib>=3.9
+seaborn>=0.13
+sqlalchemy>=2.0
+pantab>=5.0
+jupyter
+nbclient>=0.8
+nbformat>=5.10

@@ -1,0 +1,51 @@
+hospital,kri,value,z_score,points,limit_basis,secondary_limit,action_limit,status,site_risk_score,site_risk_level,site_action,triggered_by
+Ashford Medical Center,Late reports > 15 days (%),0.0,,0,value,5,10,Within limits,0.0,Low,Routine central monitoring,-
+Crestwood Memorial Hospital,Late reports > 15 days (%),0.0,,0,value,5,10,Within limits,0.0,Low,Routine central monitoring,-
+Harborview Clinical Center,Late reports > 15 days (%),0.0,,0,value,5,10,Within limits,20.0,Medium,Targeted remote review,Female patients (%)
+Lakeview Regional Hospital,Late reports > 15 days (%),0.0,,0,value,5,10,Within limits,10.0,Low,Routine central monitoring,Adverse-event O/E
+Meridian General Hospital,Late reports > 15 days (%),0.0,,0,value,5,10,Within limits,0.0,Low,Routine central monitoring,-
+Northgate University Hospital,Late reports > 15 days (%),74.43609022556392,,2,value,5,10,Action limit breached,60.0,High,For-cause audit,"Late reports > 15 days (%), Mean reporting lag (days), Adverse-event O/E"
+Pinecrest Community Hospital,Late reports > 15 days (%),0.0,,0,value,5,10,Within limits,0.0,Low,Routine central monitoring,-
+Riverside Health Institute,Late reports > 15 days (%),0.0,,0,value,5,10,Within limits,0.0,Low,Routine central monitoring,-
+St. Alden Medical Center,Late reports > 15 days (%),0.0,,0,value,5,10,Within limits,0.0,Low,Routine central monitoring,-
+Summit Health System,Late reports > 15 days (%),72.05882352941177,,2,value,5,10,Action limit breached,60.0,High,For-cause audit,"Late reports > 15 days (%), Mean reporting lag (days), Adverse-event O/E"
+Ashford Medical Center,Mean reporting lag (days),1.5127118644067796,,0,value,7,15,Within limits,0.0,Low,Routine central monitoring,-
+Crestwood Memorial Hospital,Mean reporting lag (days),2.396551724137931,,0,value,7,15,Within limits,0.0,Low,Routine central monitoring,-
+Harborview Clinical Center,Mean reporting lag (days),2.7662337662337664,,0,value,7,15,Within limits,20.0,Medium,Targeted remote review,Female patients (%)
+Lakeview Regional Hospital,Mean reporting lag (days),1.5058479532163742,,0,value,7,15,Within limits,10.0,Low,Routine central monitoring,Adverse-event O/E
+Meridian General Hospital,Mean reporting lag (days),2.267857142857143,,0,value,7,15,Within limits,0.0,Low,Routine central monitoring,-
+Northgate University Hospital,Mean reporting lag (days),41.1578947368421,,2,value,7,15,Action limit breached,60.0,High,For-cause audit,"Late reports > 15 days (%), Mean reporting lag (days), Adverse-event O/E"
+Pinecrest Community Hospital,Mean reporting lag (days),2.6423357664233578,,0,value,7,15,Within limits,0.0,Low,Routine central monitoring,-
+Riverside Health Institute,Mean reporting lag (days),2.56640625,,0,value,7,15,Within limits,0.0,Low,Routine central monitoring,-
+St. Alden Medical Center,Mean reporting lag (days),2.195583596214511,,0,value,7,15,Within limits,0.0,Low,Routine central monitoring,-
+Summit Health System,Mean reporting lag (days),42.14705882352941,,2,value,7,15,Action limit breached,60.0,High,For-cause audit,"Late reports > 15 days (%), Mean reporting lag (days), Adverse-event O/E"
+Ashford Medical Center,Adverse-event O/E,1.0320736735057283,0.48500850620848746,0,|z|,2,3,Within limits,0.0,Low,Routine central monitoring,-
+Crestwood Memorial Hospital,Adverse-event O/E,1.0674780733282747,0.9947803196469404,0,|z|,2,3,Within limits,0.0,Low,Routine central monitoring,-
+Harborview Clinical Center,Adverse-event O/E,1.0227773188885272,0.34230878716843344,0,|z|,2,3,Within limits,20.0,Medium,Targeted remote review,Female patients (%)
+Lakeview Regional Hospital,Adverse-event O/E,1.1365377978954045,2.3685033612878277,1,|z|,2,3,Secondary limit breached,10.0,Low,Routine central monitoring,Adverse-event O/E
+Meridian General Hospital,Adverse-event O/E,1.010979711134985,0.16343448677207306,0,|z|,2,3,Within limits,0.0,Low,Routine central monitoring,-
+Northgate University Hospital,Adverse-event O/E,0.6807938654945151,-4.461585629429267,2,|z|,2,3,Action limit breached,60.0,High,For-cause audit,"Late reports > 15 days (%), Mean reporting lag (days), Adverse-event O/E"
+Pinecrest Community Hospital,Adverse-event O/E,1.024201651030328,0.39584716603034936,0,|z|,2,3,Within limits,0.0,Low,Routine central monitoring,-
+Riverside Health Institute,Adverse-event O/E,1.1108925455540795,1.6833960712504399,0,|z|,2,3,Within limits,0.0,Low,Routine central monitoring,-
+St. Alden Medical Center,Adverse-event O/E,1.0543301982998927,0.9420687513135723,0,|z|,2,3,Within limits,0.0,Low,Routine central monitoring,-
+Summit Health System,Adverse-event O/E,0.7060533051435405,-4.079616037066076,2,|z|,2,3,Action limit breached,60.0,High,For-cause audit,"Late reports > 15 days (%), Mean reporting lag (days), Adverse-event O/E"
+Ashford Medical Center,Female patients (%),44.472005669737776,-1.4738566103444444,0,|z|,2,3,Within limits,0.0,Low,Routine central monitoring,-
+Crestwood Memorial Hospital,Female patients (%),45.60117302052786,-0.2654925683927423,0,|z|,2,3,Within limits,0.0,Low,Routine central monitoring,-
+Harborview Clinical Center,Female patients (%),89.47178002894356,46.02098677164578,2,|z|,2,3,Action limit breached,20.0,Medium,Targeted remote review,Female patients (%)
+Lakeview Regional Hospital,Female patients (%),46.14965986394558,0.3591548555436404,0,|z|,2,3,Within limits,10.0,Low,Routine central monitoring,Adverse-event O/E
+Meridian General Hospital,Female patients (%),46.02189781021898,0.1759027541803307,0,|z|,2,3,Within limits,0.0,Low,Routine central monitoring,-
+Northgate University Hospital,Female patients (%),45.292929292929294,-0.5606401841357476,0,|z|,2,3,Within limits,60.0,High,For-cause audit,"Late reports > 15 days (%), Mean reporting lag (days), Adverse-event O/E"
+Pinecrest Community Hospital,Female patients (%),46.03369065849923,0.20554014847742494,0,|z|,2,3,Within limits,0.0,Low,Routine central monitoring,-
+Riverside Health Institute,Female patients (%),45.687009887487214,-0.18199245752848608,0,|z|,2,3,Within limits,0.0,Low,Routine central monitoring,-
+St. Alden Medical Center,Female patients (%),46.36413340623292,0.6186527297964961,0,|z|,2,3,Within limits,0.0,Low,Routine central monitoring,-
+Summit Health System,Female patients (%),45.12045732952225,-0.728981087298716,0,|z|,2,3,Within limits,60.0,High,For-cause audit,"Late reports > 15 days (%), Mean reporting lag (days), Adverse-event O/E"
+Ashford Medical Center,Severe / fatal events (%),30.084745762711865,1.4140026498375482,0,|z|,2,3,Within limits,0.0,Low,Routine central monitoring,-
+Crestwood Memorial Hospital,Severe / fatal events (%),29.74137931034483,1.2828015763453504,0,|z|,2,3,Within limits,0.0,Low,Routine central monitoring,-
+Harborview Clinical Center,Severe / fatal events (%),27.272727272727273,0.4251261809885845,0,|z|,2,3,Within limits,20.0,Medium,Targeted remote review,Female patients (%)
+Lakeview Regional Hospital,Severe / fatal events (%),23.099415204678362,-1.2412408701979079,0,|z|,2,3,Within limits,10.0,Low,Routine central monitoring,Adverse-event O/E
+Meridian General Hospital,Severe / fatal events (%),28.571428571428573,0.8615159365776381,0,|z|,2,3,Within limits,0.0,Low,Routine central monitoring,-
+Northgate University Hospital,Severe / fatal events (%),20.30075187969925,-1.5094602396866046,0,|z|,2,3,Within limits,60.0,High,For-cause audit,"Late reports > 15 days (%), Mean reporting lag (days), Adverse-event O/E"
+Pinecrest Community Hospital,Severe / fatal events (%),24.817518248175183,-0.46300655851091216,0,|z|,2,3,Within limits,0.0,Low,Routine central monitoring,-
+Riverside Health Institute,Severe / fatal events (%),24.21875,-0.6658291263766017,0,|z|,2,3,Within limits,0.0,Low,Routine central monitoring,-
+St. Alden Medical Center,Severe / fatal events (%),29.968454258675077,1.5916149926939227,0,|z|,2,3,Within limits,0.0,Low,Routine central monitoring,-
+Summit Health System,Severe / fatal events (%),19.11764705882353,-1.8407628916281014,0,|z|,2,3,Within limits,60.0,High,For-cause audit,"Late reports > 15 days (%), Mean reporting lag (days), Adverse-event O/E"
